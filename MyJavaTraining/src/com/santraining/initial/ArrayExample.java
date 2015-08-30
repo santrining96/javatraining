@@ -1,3 +1,4 @@
+package com.santraining.initial;
 
 public class ArrayExample {
 
