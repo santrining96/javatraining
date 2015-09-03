@@ -148,6 +148,7 @@ public class StudentTestScores {
 	
 	public int getHighestTestScore(int[] testScores) {
 		int highestTestScore = 0;
+		//Arrays.
 		for(int mark: testScores) {
 			
 		}
